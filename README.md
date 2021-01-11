@@ -4,8 +4,8 @@ _this project was for my disertation at Salford_
 **This project was to demonsrate that machine learning and automation could work together for a simple use case of a webscraper proving the preformance and automation**
 
 _for this project i used_
-* selenuim _for webscraping*
-* flask _as a web framework for python
+* selenuim _for webscraping_
+* flask _as a web framework for python_
 * and other packages to zip the files downloaded
 
 ### this is a much older project the reason why there arnt any commmits was because i didnt know the usefulness of git and remote repos
